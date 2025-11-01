@@ -1,8 +1,6 @@
-# ORI Onboarding 
+# Coherence and Identity
 
-This is the minimum set of skills & concepts necessary to "learn how to think".
-
-https://openresearchinstitute.org/onboarding/
+TODO
 
 See mdBook docs: https://rust-lang.github.io/mdBook/
 
