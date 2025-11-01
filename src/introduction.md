@@ -1,87 +1,98 @@
-# Introduction
+# Preface: The Last Problem
 
-An open source book about "how to think". Maintained by [ORI](https://openresearchinstitute.org/).
+The year is 2035, we live in post-scarcity society, singularity has passed. AGI has solved production—energy is abundant, manufacturing is automated, medicine has conquered aging and most diseases are now extinct or easily treatable.
 
-Source code: [https://github.com/Open-Research-Institute/onboarding](https://github.com/Open-Research-Institute/onboarding)
+The survival problems that shaped human civilization for 200,000 years are ending within our lifetimes, but one last question remains to be asked in this utopian situation: are we happy?
 
-## Introduction: Learning How to Think  
-*(How Perception and Interpretation Are Ordered)*
+Material scarcity was brutal, but it provided something irreplaceable: purpose. When your survival depends on coordinated action, meaning is built-in: work to eat, cooperate to defend.
 
-To think well is not simply to gather information or argue persuasively. It is to learn how to relate rightly to reality—how to perceive clearly, reason soundly, and act with coherence. 
+Humans beings are not passive experiencers of reality, we're these coherence-seeking systems that gained sentience. We absolutely require pattern, purpose, integration for happiness, Maslow's hierarchy will break in our perfect future. Direction emerges from necessity, and it will be gone with it.
 
-This kind of thinking is not a quick technique. It is a lifelong formation of attention, judgment, and inner orientation.
+Does it sound absurd to think abundance might kill us? Information abundance completely transformed civilization in two decades, we gained instant access to all human knowledge through the internet, the possibility for global coordination, innovation and technology skyrocketing, and individual agency exploded beyond anything possible in history.
 
-This framework offers a map for that formation: 
-- It is structured from upstream to downstream—beginning with the foundational assumptions that make knowledge possible,
-- It moves through the layers of interpretation, reasoning, and lived understanding.
-- Each downstream stage draws its integrity from what precedes it upstream.
+Simultaneously, consensus reality started to shatter and we can no longer agree about basic facts — vaccines, election results, climate change, and so on — we are addicted to feeds, weaponized attention for profit, radicalization and tribalism are increasing. Distrust and uncertainty mark the collective Zeitgeist, with depression, anxiety and suicide rates increasing globally.
 
-Many modern systems of education begin midstream—often with tools like logic, rhetoric, or scientific method—without first clarifying the underlying assumptions that those tools depend on. 
+This is not a luxury problem; this is the problem. What we call psychology nowadays represents the last frontier of our current paradigm, scaling up purpose and cooperation is our generational Great Filter by necessity of what remains.
 
-This can lead to a fragmented mind: technically sharp, but unable to discern meaning, purpose, or coherence.
+Mental health diagnoses increased 400% since the 1990s, treatment rates tripled, ADHD diagnoses rose 800%. We've responded by producing more psychologists, more psychiatrists, more therapists, expanding access to mental health services, better treatments, better drugs. Again, are we any happier for it? We're getting better at naming misery, but not effectively reducing it.
 
-Science, for example, is a remarkable achievement for processing knowledge. 
-But it relies on upstream assumptions—that the world is intelligible, that observation yields insight, that patterns carry meaning. These assumptions cannot be tested within science. 
+We are not ready.
 
-They are the priors that make science intelligible in the first place. Knowing where scientific thinking fits within this upstream-to-downstream flow is part of becoming a trustworthy thinker.
+## What is a human?
 
-This guide is written to support learners at any stage. It is especially valuable for those beginning their journey—young people, new seekers, or anyone revisiting how they’ve been formed. But its structure is rigorous enough to serve seasoned thinkers as well. 
+> "Behaviorism is not the science of human behavior; it is the philosophy of that science. (…) Is such a science really possible? Can it account for every aspect of human behavior? What methods can it use? Are its laws as valid as those of physics and biology?" — (B.F. Skinner)
 
-Thus our aim is not only to inform, but to reorient the way we relate to knowledge itself—so that our thoughts are not just sharp, but also rightly ordered.
+Psychology studies human behavior, consciousness, cognition, emotion—but starts by assuming we know what "human" means. To attempt to define it, we must first define what a human is: Intelligence and consciousness were concepts restricted to the humanities, philosophy and metaphysics, until AI forces precision.
 
----
+So what distinguishes human consciousness from AI computation? Neural networks—biological and artificial—both process information. Neurons fire when input crosses threshold, update based on prediction error, maintain patterns across time, and silicon does the same, although it seems a lot less complex (and messier). Different substrates implementing the same computational principles.
 
-## What This List Aims To Do
+Is understanding language uniquely human? Or creativity and mathematical thinking? Thinking and describing feelings? As much as the pragmatic person might want to assign a special property to the biological substrate, as a matter of fact we have no measurements for humanity that AI wasn't able to pass.
 
-- Reveal the upstream structure beneath everyday thought—layers that are often assumed but rarely examined.
-- Form the person, not just improve technique—shaping how we attend, interpret, and relate.
-- Equip readers with a map for tracing knowledge from its origins to its expression, including where distortions or breakdowns occur.
-- Clarify the role of reason and science—placing them within a larger flow of meaning, purpose, and participation.
-- Build discernment—the ability to detect when thinking has drifted from first principles, and to return upstream for recalibration.
+So far our only test for the "Hard Problem of Consciousness" is simply asking, and If there is no distinction between simulation and reality, we might start asking if they're the same thing—the burden of proof shifts.
 
----
-### Topic Sequence: Learning How to Think (Upstream to Downstream)
+So let's start with what we can observe: humans are the most complex systems we've encountered by every measure—number of components, variety of states, depth of hierarchical organization, range of behaviors, sophistication of coordination—human beings represent the peak of observable complexity in the known universe. We're far from anthropocentric bias here, it's just measurement.
 
-This topic sequence is designed for onboarding readers, building formation step by step without assuming prior philosophical training. Each topic corresponds to a stage in the epistemic sequence and includes its rationale.
+Our brains contain 86 billion neurons, each connected to thousands of others, our bodies integrate countless biological subsystems maintaining homeostasis which then form families, communities, institutions and civilizations coordinating billions of individuals
 
-| Order | Topic Title                        | Purpose / Key Focus                                                                 | Corresponds to Stage         |
-|-------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------------------|
-| 1     | What Must Be Presupposed?          | Introduce the idea that all knowing rests on unprovable, starting points (e.g. intelligibility, unity, being) | Unconditioned Source          |
-| 2     | Is Reality Structured or Chaotic?  | Explore whether the world has inherent order and purpose—or if meaning is constructed | Intrinsic Patterning          |
-| 3     | How Do We Come to Know?            | Contrast detached knowledge (e.g. data collection) vs. relational, participatory knowing | Participatory Knowing         |
-| 4     | What is Reason For?                | Frame reason not as self-justifying but as dependent on alignment with upstream purpose | Right Discernment             |
-| 5     | Why Perception is Never Neutral    | Explain how attention, memory, and cognitive habits shape what we notice and how we interpret | Mental Formation              |
-| 6     | Where Does Science Fit?            | Situate empirical methods as valid downstream tools, dependent on prior interpretive commitments | Empirical Perception          |
-| 7     | Can Knowledge Be Trusted Without Action? | Show how knowledge must be embodied and enacted to have coherence or authority     | Wisdom-in-Action              |
-| 8     | What Shapes the Thinker?           | Discuss inherited frameworks—culture, language, tradition—as scaffolds, not shackles | Inherited Formation           |
-| 9     | How Does Thinking Go Wrong?        | Diagnose common breakdowns: epistemic drift, misordered priorities, loss of grounding | Integration (cross-level)     |
-| 10    | How Do We Return to First Principles? | Teach how to trace ideas upstream when confusion arises; introduce reflective techniques | Integration (cross-level)     |
+Humans are information patterns operating across multiple scales simultaneously. The individual human is one level in a nested hierarchy of information processing—molecules to cells to organisms to groups to societies, each level emerging from patterns at the level below while participating in patterns at the level above. A single human is a collective organism at every scale.
 
----
+If what makes us "us" is how information organizes rather than the specific substrate carrying it—then to understand what humans are, we must understand what information is.
 
-## How It Is Ordered
+## What is information?
 
-This list follows a teleological and epistemic sequence. Each level presupposes the one upstream. Knowledge is not constructed from the bottom up like a pile of facts—it flows from prior commitments into structured understanding and lived expression.
+Information theory provides the foundation for the entire digital age: Claude Shannon defined information mathematically in 1948—entropy, channel capacity, noise, redundancy all follow from treating information as statistical patterns in signals. This framework enabled most of the modern world: digital communication, data compression, error correction, the internet, modern computing, artificial intelligence.
 
-### Epistemic Sequence
+It works spectacularly, but Shannon treated the bit—our fundamental unit of information—as primitive, two distinguishable states: 0 or 1. The framework simply assumes bits exist and builds from there, never examining what makes a bit possible, what structure allows discrete information to exist at all.
 
-### Summary Table
+Look at the character "1" in binary. What information does it carry?
 
-| Level   | Name                  | Description                                        | Core Assumption (Upstream Prior)                                           |
-|---------|-----------------------|----------------------------------------------------|-----------------------------------------------------------------------------|
-| 🜂 1    | **Unconditioned Source of Purpose**  | The ground of all intelligibility, telos and meaning. Final goal and first mover.        | All knowing presupposes a given origin that is not derived. Knowing has Conscience.                |
-| 🜁 2    | **Intrinsic Patterning**  | Reality is structured with discoverable order and purpose.        | Meaning is embedded and embodied in things, not projected onto them.                     |
-| 🜃 3    | **Participatory Knowing** | Understanding arises through engaged relationship.    | Knowledge involves presence and transformation.                             |
-| 🜄 4    | **Right Discernment**     | Reason must align with upstream orientation.          | Logic is governed by purpose and moral proportion.                          |
-| 🧠 5    | **Mental Formation**      | Perception is filtered through inner habits.          | What we notice depends on how we have been shaped.                          |
-| 📊 6    | **Empirical Perception**  | Observations are always interpreted within a frame.   | Data presupposes intelligibility, structure, and meaning.                   |
-| 💬 7    | **Wisdom-in-Action**      | Knowledge matures through lived coherence.            | Truth is not static—it must be enacted to be fulfilled.                     |
-| 🧬 8    | **Inherited Formation**   | Thought is shaped by memory, tradition, and trust.    | We interpret the world through what we have received.                       |
+First, there's the value: 1 rather than 0. This is what information theory treats as the complete story—two states, pick one.
 
----
+But the value alone carries no information: for "1" to mean anything, it must exist in relation to something. The "1" implies "not-1", or 0 —it references an origin point, a baseline state from which it differs. Without this reference, "1" is just a symbol with no semantic content, the value only becomes information through its relationship to the origin.
 
-To think well is to move across all these layers consciously. Not just reasoning effectively, but tracing how and why we think as we do—and learning how to return upstream when something no longer holds.
+And now add position: when you see "11", the first "1" means something different from the second "1" precisely because of where each sits in the sequence. But position itself only exists because there's directional structure—a causal ordering that determines which position comes first, second, third. The bit doesn't float in isolation; it occupies a specific location in a causally structured sequence.
 
-This is not a textbook of techniques. It is a guide to becoming the kind of person whose thoughts carry coherence, whose judgments can be trusted, and whose way of seeing invites others to do the same.
+So every bit actually encodes 3 separate dimensions, when you see the number "1", you're seeing simultaneously, implicitly:
 
+**The value:** The state (0 or 1)  
+**The reference:** Relation to origin giving value meaning  
+**The position:** Location in a causally ordered structure
 
+This is how data becomes information. Raw values without reference and position are meaningless marks, information emerges when those values exist in structured relationships—meaning requires context.
+
+And this is exactly a vector structure; vectors carry magnitude (value), direction (causal structure), and position (location relative to origin). The bit is a vector.
+
+And of course it is—this is how LLMs actually work. Word embeddings are vectors in high-dimensional semantic space, token processing is vector mathematics and attention mechanisms compute weighted combinations of vectors. "King - Man + Woman = Queen" works because language models encode meaning as vectors, and vector operations preserve semantic relationships. The entire architecture of modern AI runs on vector processing because information fundamentally has vector structure.
+
+Modern information theory treats this infrastructure as background assumption—bits are defined by their values, then the reference frame and positional structure are taken for granted as "the system" in which bits operate. But those three aspects constitute the minimal structure allowing discrete information to exist at all.
+
+## The Topology of a Bit
+
+Landauer's principle connects information to physics: erasing a bit costs energy, information is physical. And if information is physical, then bits must have the structure that physical existence requires, so let's reconstruct physics from there.
+
+Existence seems to require, irreducibly:
+
+- **Coherence:** Quantum mechanics shows particles maintain coherent states—the wavefunction doesn't instantly randomize, patterns persist across time despite perturbation. Similarly, language requires a message to be coherent to hold information, like the sentence: "flowers elementary cheese penguin" literally makes no sense. For a bit to hold its value, coherence must be maintained.
+
+- **Interaction:** Russell's structural realism argues that all properties are relational—nothing exists in isolation, only in relationship to other things. For a bit to be distinguishable and readable, it must interact with its environment, information that cannot be detected is ontologically indistinguishable from inexistence. Similarly, even the basic properties of elementary particles are defined in relationships, mass depends on acceleration to be defined.
+
+- **Directionality:** Memory requires time's arrow: If causation could flow backward, if future could overwrite past, no states are able to persist at all, coherence can't maintain itself and interactions can't be verified. For bits to encode sequence, for computation to proceed step by step, time must flow in a single direction, thermodynamics provides this through entropy increase.
+
+Each of these properties depends on each other's and are literally universally present in everything we can observe or interact. This is the minimum for existence, observation itself requires all three.
+
+Test it: try to conceive of something that exists but lacks any one of these. Anything lacking coherence can't persist, anything lacking interaction is undetectable, anything lacking causality can't exist in time.
+
+When these three aspects bootstrap together, identity emerges. The pattern becomes nameable, it gains "is-ness." Data becomes information.
+
+This is walking backwards to continuity, but what if go forwards from it?
+
+1. Start with undifferentiated potential: no structure, pattern or distinction. Pure potential. One.
+2. First distinction emerges at phase transition, not caused by anything as causation doesn't exist yet. This creates a gradient, the first directionality—a difference that can propagate. Two from one perspective.
+3. From directionality, now there are past and future states, coherence becomes possible. And coherent things can persist long enough to interact with each other, the persistence is detectable. From two to three.
+4. And now a thing with identity emerges, that can persist and interact causally, everything that can be named follows: from subatomic particles to social structures. From one to two to three to ten thousand things, this intuition has been sitting with us for a long time.
+
+And both the effectiveness of mathematics and physics using vectors to describe reality and our Turing machines that can compute any tasks using binary actually converge from this minimal structure that encodes reality: the atom of information. Before an excitation in a field becomes a particle, these three properties must be present to confirm it's signal, it's identity.
+
+And notice how both properties actually bootstrap from the existence of directionality? When I started this argument, I said humans would lose direction or purpose from the lack of necessity, and now I can make this point clearer with Levin's work in goal-directness and its importance to living organisms. You could say time has the goal of going from here to there, and time seems to be our minimum requirement to maintain existence itself. That is to say: the universe is not neutral; valence and purpose are built-in on the very nature of reality.
+
+And this lets us set a very clear metric for what Psychology should be tracking and measuring in human beings: agency, the ability to define and complete goals, how much a person is getting what it wants out of life, aligning expectations with reality.
